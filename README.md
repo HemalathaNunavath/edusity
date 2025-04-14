@@ -1,5 +1,7 @@
 🎓 EDUSITY - EDUCATIONAL WEBSITE USING REACTJS
-Welcome to Edusity, a fully responsive educational website built with ReactJS. It features modern UI/UX, smooth navigation, and interactive elements for showcasing programs, campus galleries, testimonials, and contact forms — perfect for universities or educational institutions.
+
+
+Welcome to Edusity, a fully responsive educational website built with ReactJS. It features smooth navigation, and interactive elements for showcasing programs, campus galleries, testimonials, and contact forms — perfect for universities or educational institutions.
 
 🚀 Project Description
 This is a fully functional Educational Website built using ReactJS and React Router.
